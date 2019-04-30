@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d04fd6-f35a-4b9d-bd35-ecdf00936537" name="Default" comment="kafka读取代码提交">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kafka_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/flink/FlinkReadKafka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/flink/FlinkReadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/flink/MessageSplitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/flink/MessageWaterEmitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/flink/entity/Hiacloud.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/main/KafkaLog4jApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/main/ReadFileSendKafka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/util/ConsumerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/util/JobjectDeserialize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/util/KafkaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/util/MaxpoolConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/util/PartitionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kafka/util/ProducerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/consumer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/producer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/flink/FlinkReadKafka.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/flink/FlinkReadTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/flink/MessageSplitter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/flink/MessageWaterEmitter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/flink/entity/Hiacloud.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/main/KafkaLog4jApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/main/ReadFileSendKafka.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/util/ConsumerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/util/JobjectDeserialize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/util/KafkaUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/util/MaxpoolConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/util/PartitionTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/util/ProducerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/kafka/util/Thread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/consumer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/producer.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,10 +31,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/kafka/util/KafkaUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
+            <state relative-caret-position="720">
               <caret line="101" column="37" selection-start-line="101" selection-start-column="37" selection-end-line="101" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -111,11 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1610">
-              <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
+            <state relative-caret-position="662">
+              <caret line="75" column="32" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="32" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
@@ -148,7 +107,7 @@
         <option value="dingzhenying" />
       </list>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,7 +119,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/main/Test.java" />
         <option value="$PROJECT_DIR$/src/main/resources/producer.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/util/ProducerTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/flink/MessageWaterEmitter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/flink/entity/Hiacloud.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/flink/MessageSplitter.java" />
@@ -171,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/util/MaxpoolConsumer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/main/ReadFileSendKafka.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/kafka/util/KafkaUtil.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -527,12 +486,20 @@
       <workItem from="1556157459464" duration="5379000" />
       <workItem from="1556240892522" duration="6056000" />
       <workItem from="1556521867793" duration="1260000" />
-      <workItem from="1556586361588" duration="1060000" />
+      <workItem from="1556586361588" duration="1596000" />
     </task>
+    <task id="LOCAL-00001" summary="kafka读取代码提交">
+      <created>1556588687563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556588687563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291905000" />
+    <option name="totallyTimeSpent" value="292441000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -956,7 +923,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kafka/util/KafkaUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
+        <state relative-caret-position="720">
           <caret line="101" column="37" selection-start-line="101" selection-start-column="37" selection-end-line="101" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -985,14 +952,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1610">
-          <caret line="70" column="50" selection-start-line="70" selection-start-column="50" selection-end-line="70" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/kafka/util/ConsumerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1000,6 +959,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="75" column="32" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="32" />
         </state>
       </provider>
     </entry>
